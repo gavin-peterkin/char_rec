@@ -1,0 +1,11 @@
+*.pyc
+*.DS_Store
+checkpoint
+*.index
+*.meta
+*.data*
+
+.ipynb_checkpoints/
+/character_data/
+/MNIST_data/
+/raw_char_images/
